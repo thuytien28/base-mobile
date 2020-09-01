@@ -1,0 +1,6 @@
+{
+    // "DefaultServerUrl": "http://207.148.68.224:8000",
+    "DefaultServerUrl": "https://hfc.getoficina.com/api",
+    // "LinkSignIn": "http://localhost:3000"
+    "LinkSignIn": "https://hoa.meeting.app"
+}
